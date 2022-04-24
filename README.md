@@ -1,0 +1,2 @@
+# dnslookup
+Php DnsLookup Script
